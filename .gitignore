@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+tmp/
+.env
+*.exe
+bin/
+github.com/
+post_cmd.txt
+pre_cmd.txt
+.air.toml
+*.log
